@@ -1,0 +1,7 @@
+[X-GNOME-Metatheme]
+Name=Solarized Dark
+GtkTheme=SolarizedDark
+MetacityTheme=Adwaita
+IconTheme=gnome
+CursorTheme=Adwaita
+CursorSize=24
